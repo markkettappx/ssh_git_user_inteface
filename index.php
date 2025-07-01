@@ -83,7 +83,7 @@
 <div style='background-color: lightblue; border: 1px solid darkblue;'><h1 style='text-align: center;'>Unstable</h1></div>
 
 <div style='background-color: pink;'><h2 style='text-align: center;'> SSH Server </h2></div>
-<a href=''><img style='display: block; margin: auto; width: 200px;' src='ssh.png'></img></a>
+<a href=''><img style='display: block; margin: auto; width: 200px;' src='https://www.openssh.com/images/openssh.gif'></img></a>
 
 <div style='text-align: center;'>
 
